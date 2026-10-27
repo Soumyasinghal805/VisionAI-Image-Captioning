@@ -304,22 +304,7 @@ Python >= 3.9
 pip >= 21.0
 ```
 
-### Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/tharun-ship-it/image-to-text-generator.git
-cd image-to-text-generator
-
-# Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Install package in development mode
-pip install -e .
 ```
 
 ---
@@ -411,14 +396,7 @@ batch_processing:
   max_total_size: "2GB"
 ```
 
-### API Reference
 
-| Class | Description |
-|-------|-------------|
-| `ImageCaptioner` | High-level captioning interface |
-| `BlipProcessor` | Image and text preprocessing |
-| `BlipCaptioningModel` | BLIP model wrapper |
-| `CaptionEvaluator` | BLEU, CIDEr, SPICE metrics |
 
 ---
 
@@ -436,14 +414,7 @@ pytest tests/ --cov=src --cov-report=html
 
 ---
 
-## 🗺 Future Work
 
-- [ ] Add BLIP-2 model support for even better performance
-- [ ] Visual Question Answering (VQA) feature
-- [ ] Multi-language caption generation
-- [ ] Real-time API endpoint with FastAPI
-- [ ] Browser extension for image descriptions
-- [ ] Docker containerization
 
 ---
 
@@ -473,13 +444,7 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-* **Dataset:** [TextCaps](https://textvqa.org/textcaps/) by Facebook AI Research (FAIR) for the multimodal captioning dataset
-* **Research Paper:** O. Sidorov et al., *"TextCaps: A Dataset for Image Captioning with Reading Comprehension"*, ECCV 2020
-* **Model:** [Salesforce Research](https://github.com/salesforce/BLIP) for the BLIP architecture
-* **Framework:** [Hugging Face](https://huggingface.co/) for the Transformers library
-* **Web Demo:** [Streamlit](https://streamlit.io/) for the interactive web application framework
+#
 
 ---
 
