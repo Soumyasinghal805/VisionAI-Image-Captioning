@@ -457,8 +457,3 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
-
-* [🔗 Live Demo](https://blip-image-to-text-generator.streamlit.app)
-* [🐛 Report Bug](https://github.com/tharun-ship-it/image-to-text-generator/issues)
-* [✨ Request Feature](https://github.com/tharun-ship-it/image-to-text-generator/pulls)
