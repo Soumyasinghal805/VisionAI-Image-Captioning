@@ -54,8 +54,4 @@ Use conventional commits format:
 
 Example: `feat: add nucleus sampling to caption generation`
 
-## Questions?
 
-Open an issue or contact tharunponnam007@gmail.com
-
-Thank you for helping improve this project! 🙏
