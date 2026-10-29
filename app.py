@@ -455,7 +455,7 @@ with st.sidebar:
     st.markdown("""
     <div class="author-info">
         <h3>👤 Author</h3>
-        <p><strong>Soumya Singhal</strong></p>
+        <p><strong>Soumya Singhal,Sparsh Singhal</strong></p>
         <p>🔗 <a href="https://github.com/Soumyasinghal805" target="_blank">@Soumyasinghal805</a></p>
         <p>📧 singhalsoumya122@gmail.com</p>
     </div>
