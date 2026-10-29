@@ -4,7 +4,7 @@ VisionAI - Transformer-Based Image Captioning System
 
 An interactive image captioning application using the BLIP Transformer model.
 
-Project Developer: Soumya Singhal
+Project Developers: Soumya Singhal & Sparsh Singhal
 
 """
 
@@ -19,7 +19,7 @@ import zipfile
 # Page Configuration
 # ============================================================
 st.set_page_config(
-    page_title="VisionAI | Soumya Singhal Sparsh Singhal",
+    page_title="VisionAI | Soumya , Sparsh",
     page_icon="🖼️",
     layout="wide",
     initial_sidebar_state="expanded"
