@@ -19,7 +19,7 @@ import zipfile
 # Page Configuration
 # ============================================================
 st.set_page_config(
-    page_title="VisionAI | Soumya Singhal",
+    page_title="VisionAI | Soumya Singhal Sparsh Singhal",
     page_icon="🖼️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -528,7 +528,7 @@ with st.sidebar:
     st.markdown("""
     <div class="section-card">
         <div class="section-header">🔗 Links</div>
-        <a href="https://github.com/tharun-ship-it/image-to-text-generator" target="_blank" class="link-item">📂 GitHub Repository</a>
+        <a href="https://github.com/Soumyasinghal805/VisionAI-Image-Captioning" target="_blank" class="link-item">📂 GitHub Repository</a>
         <a href="https://arxiv.org/abs/2201.12086" target="_blank" class="link-item">📄 BLIP Paper</a>
         <a href="https://arxiv.org/abs/2003.12462" target="_blank" class="link-item">📄 TextCaps Paper (ECCV 2020)</a>
         <a href="https://huggingface.co/Salesforce/blip-image-captioning-large" target="_blank" class="link-item">🤗 Model on HuggingFace</a>
